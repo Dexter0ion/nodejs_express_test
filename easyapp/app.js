@@ -13,7 +13,7 @@ var table1 = require('./routes/table1');
 var tableDB = require('./routes/tableDB');
 var regisadmin = require('./routes/regisadmin');
 var app = express();
-
+//aa
 // view engine setup
 //设置模板引擎为ejs
 app.engine('html', ejs.__express);
